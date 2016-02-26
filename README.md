@@ -1,2 +1,2 @@
-# qls
+# QLS
 QuantLib in Scala
